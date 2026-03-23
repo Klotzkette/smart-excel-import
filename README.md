@@ -3,7 +3,6 @@
 Ein Excel-Add-in, das Dokumente (PDF, Word, Excel, Bilder/Screenshots) per Drag & Drop importiert und als **dynamische Tabelle mit echten Excel-Formeln** einfügt.
 
 ![Excel Add-in](https://img.shields.io/badge/Excel-Add--in-217346?logo=microsoft-excel&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Was macht dieses Add-in?
 
