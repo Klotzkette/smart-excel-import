@@ -1,0 +1,15 @@
+{
+  "name": "smart-excel-import",
+  "version": "1.0.0",
+  "description": "Excel Add-in: Import PDF, Word, Excel & Images as dynamic spreadsheets with real formulas",
+  "main": "src/taskpane/taskpane.js",
+  "scripts": {
+    "start": "npx http-server . -p 3000 --ssl --cert scripts/cert.pem --key scripts/key.pem -c-1",
+    "dev": "npx http-server . -p 3000 -c-1",
+    "generate-certs": "npx office-addin-dev-certs install"
+  },
+  "keywords": ["excel", "add-in", "ai", "import", "pdf", "word"],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
