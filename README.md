@@ -42,7 +42,7 @@ Du brauchst einen eigenen API-Schlüssel, den du in den Einstellungen des Add-in
 ### Schritt 1: Repository klonen
 
 ```bash
-git clone https://github.com/DEIN-USERNAME/smart-excel-import.git
+git clone https://github.com/Klotzkette/smart-excel-import.git
 cd smart-excel-import
 ```
 
