@@ -12,6 +12,7 @@ Statt toter Zahlen aus PDFs oder Screenshots erzeugt Smart Excel Import **lebend
 - **Berechnungen** (Prozent, Differenzen, Durchschnitte) als echte Formeln
 - **Professionelle Formatierung** mit Überschriften, Farben, Rahmen und Zahlenformaten
 - **Metadaten** (Quelle, Datum) werden automatisch erkannt und angezeigt
+- **Inhaltsverzeichnisse** aus anwaltlichen Akten und Gerichtsakten werden strukturiert in Excel abgebildet
 
 ## Unterstützte Dateiformate
 
