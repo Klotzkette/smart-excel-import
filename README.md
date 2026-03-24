@@ -21,13 +21,13 @@ Statt toter Zahlen aus PDFs oder Screenshots erzeugt Smart Excel Import **lebend
 | **PDF** | Text-Extraktion via pdf.js |
 | **Word (.docx)** | Text-Extraktion via mammoth.js |
 | **Excel (.xlsx/.xls)** | Daten-Extraktion via SheetJS |
-| **Bilder (JPG, PNG, etc.)** | Vision-API (GPT-4o / Claude) analysiert Screenshots |
+| **Bilder (JPG, PNG, etc.)** | Vision-API (GPT-4o / Anthropic) analysiert Screenshots |
 
 ## KI-Anbieter
 
 Wahlweise:
 - **OpenAI** (GPT-4o) — mit Vision für Bilder
-- **Anthropic** (Claude Sonnet) — mit Vision für Bilder
+- **Anthropic** (Sonnet) — mit Vision für Bilder
 
 Du brauchst einen eigenen API-Schlüssel, den du in den Einstellungen des Add-ins eingibst.
 
